@@ -44,6 +44,7 @@ navbar-links:
 # then specify the following parameter
 #title-img: /path/to/image
 
+paginate_path: "/blog/page:num/"
 
 #####################################
 # --- Footer social media links --- #
