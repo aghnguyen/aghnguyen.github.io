@@ -21,6 +21,9 @@ author: Allison Nguyen
 
 navbar-links:
   About Me: "aboutme"
+  Lab Website: "https://foxtree.sites.ucsc.edu/"
+  Teaching: "teaching"
+  CV: "cv"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
