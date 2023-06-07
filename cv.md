@@ -1,3 +1,4 @@
-<embed src= "https://aghnguyen.github.io/assets/Nguyen_CV-13.pdf" type="application/pdf" width = "100%"/>
+
+<object data="https://aghnguyen.github.io/assets/Nguyen_CV-13.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 You can [download my CV](assets/Nguyen_CV-13.pdf) here.
