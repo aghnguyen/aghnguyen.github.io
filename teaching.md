@@ -1,4 +1,4 @@
-*Fall 2023* 
+**Fall 2023**
 <br>
 [PSY 111 - Introduction To Psychology](https://coursefinder.illinoisstate.edu/psy/111/)
 <br>
@@ -6,7 +6,7 @@
 
 
 
-Previous courses taught as instructor of record
+**Previous courses taught as instructor of record**
 <br>
 [Humn 35 - Language Technology Across Cultures and Histories](https://humanities.ucsc.edu/academics/hum-tech.html)
 <br>
