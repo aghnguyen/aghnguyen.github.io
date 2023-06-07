@@ -6,13 +6,16 @@
 
 
 
+
 **Previous courses taught as instructor of record**
 <br>
 [Humn 35 - Language Technology Across Cultures and Histories](https://humanities.ucsc.edu/academics/hum-tech.html)
 <br> You can view the syllabus [here](assets/W23 Language Technology Syllabus-2.pdf)
 <br>
+<br>
 [Ling 133 - Language OnLine (LOL)](https://ucsc.smartcatalogiq.com/current/General-Catalog/Courses/LING-Linguistics/Upper-Division/LING-133)
 <br> You can view the syllabus [here](assets/Linguistics 133 Syllabus-1.pdf)
+<br>
 <br>
 [Psy 2 - Introduction to Psychological Statistics](https://ucsc.smartcatalogiq.com/Current/General-Catalog/Courses/PSYC-Psychology/Lower-Division/PSYC-2)
 <br> You can view the syllabus [here](assets/PSYC 2 SYLLABUS.pdf)
