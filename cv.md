@@ -1,4 +1,4 @@
 
-<object data="https://aghnguyen.github.io/assets/Nguyen_CV-13.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://aghnguyen.github.io/assets/Nguyen_CV-13.pdf" width=100vh height= 100vh type='application/pdf'></object>
 
 You can [download my CV](assets/Nguyen_CV-13.pdf) here.
