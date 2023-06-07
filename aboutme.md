@@ -12,7 +12,7 @@ I'm a Vietnamese - American scholar, and my research interests revolve around ho
 
 But I'm much more than a researcher! I also enjoy hiking, cycling, ceramics, knitting, and powerlifting, and I have a variety of other hobbies, too.
 
-If you want me to give a colloquium or talk, please reach out to me at allison [dot] g [dot] nguyen @ ucsc [dot] edu.
+If you want me to give a colloquium or talk, please reach out to me using the link below.
 
 If you'd like to hear more about any of the things listed above (research interests, hobbies, etc), please also reach out!
 
