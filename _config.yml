@@ -26,7 +26,7 @@ navbar-links:
   Teaching: "teaching"
   CV: "cv"
   Media: "media"
-  Blog: "https://aghnguyen.github.io/blog/"
+  Blog: "https://aghnguyen.github.io/blog/index.html"
 
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
