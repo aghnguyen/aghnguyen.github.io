@@ -4,4 +4,6 @@
 
 [The - and I cannot stress this enough - strange rise of and I cannot stress this enough](https://www.inverse.com/input/culture/the-and-i-cannot-stress-this-enough-strange-rise-of-and-i-cannot-stress-this-enough) I was interviewed for a piece covering some pop language!
 
-[I was also a Grad Slam finalist in 2019, and you can watch my talk on Youtube](https://graddiv.ucsc.edu/calendar/grad-div-special-events/grad-slam/grad-slam-finalists-2019.html)
+[I was a Grad Slam finalist in 2019, and you can watch my talk on Youtube](https://graddiv.ucsc.edu/calendar/grad-div-special-events/grad-slam/grad-slam-finalists-2019.html)
+
+[I was featured during my time at NASA as an intern](https://appliedsciences.nasa.gov/our-impact/people/fostering-inclusivity-nasa)
