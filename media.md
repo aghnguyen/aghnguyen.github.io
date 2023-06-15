@@ -1,4 +1,6 @@
-[I was featured by UCSC as a 2023 graduate](https://www.instagram.com/reel/CtASzrqLlqH/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==). I'm the one in the funky hat!
+[I was featured by UCSC as a 2023 graduate (promo video)](https://www.instagram.com/reel/CtASzrqLlqH/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==).
+
+[Here's my UCSC feature](https://www.instagram.com/reel/CtRvhO3J4jx/?igshid=Y2IzZGU1MTFhOQ==).
 
 [These Red Flags Can Let You Know When You’re In An Online Echo Chamber](https://www.eurekalert.org/news-releases/95737). Our article around misinformation and hyperpartisan language ([Nguyen, et al., 2022](https://journals.sagepub.com/doi/10.1177/09579265221108022)) was featured on websites such as IFLScience.
 
