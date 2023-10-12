@@ -1,3 +1,13 @@
+**Talks**
+_Upcoming_
+[Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. ] 
+
+
+**Papers Under Review**
+**Nguyen, A.**, & Fox Tree, J.E. (Under review). Pragmatic uses of _I don't know_ in talk and text.
+Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (Under review). Discourse markers in small talk and tasks.
+
+
 **Recently Published Papers**
 
 **Nguyen, A.**, Roberts, T., Anand, P., Fox Tree, J.E. (2022) Look, Dude: How Hyperpartisan and Non-hyperpartisan Writing Differ in Online Commentary. _Discourse & Society_.
