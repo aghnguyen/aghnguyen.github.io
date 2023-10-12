@@ -5,13 +5,14 @@ _Upcoming_
 <object data="https://aghnguyen.github.io/assets/Workshop_Argumentation_Poster.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
-[Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. ] (assets/Workshop_Argumentation_Poster.pdf) 
+[Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. ](assets/Workshop_Argumentation_Poster.pdf) 
 
 
 **Papers Under Review**
 
 
 **Nguyen, A.**, & Fox Tree, J.E. (Under review). Pragmatic uses of _I don't know_ in talk and text.
+
 Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (Under review). Discourse markers in small talk and tasks.
 
 
