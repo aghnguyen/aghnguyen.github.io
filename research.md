@@ -5,7 +5,8 @@ _Upcoming_
 <object data="https://aghnguyen.github.io/assets/Workshop_Argumentation_Poster.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
-Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. [Flyer](assets/Workshop_Argumentation_Poster.pdf)  
+Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. 
+[Flyer can be found here.](assets/Workshop_Argumentation_Poster.pdf)  
 [Abstract can be found here.](assets/Workshop_argumentation_agreement_abstract.pdf)
 
 
