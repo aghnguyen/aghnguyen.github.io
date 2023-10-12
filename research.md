@@ -1,6 +1,6 @@
-**Talks**
+_**Talks**_
 
-_Upcoming_
+**Upcoming**
 
 <object data="https://aghnguyen.github.io/assets/Workshop_Argumentation_Poster.pdf" width="1000" height="1000" type='application/pdf'></object>
 
@@ -21,7 +21,7 @@ Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germa
 
 
 
-**Papers Under Review**
+_**Papers Under Review**_
 
 
 **Nguyen, A.**, & Fox Tree, J.E. (Under review). Pragmatic uses of _I don't know_ in talk and text.
@@ -32,7 +32,7 @@ Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (Under review). Discourse mark
 
 
 
-**Recently Published Papers**
+_**Recently Published Papers**_
 
 **Nguyen, A.**, Roberts, T., Anand, P., Fox Tree, J.E. (2022) Look, Dude: How Hyperpartisan and Non-hyperpartisan Writing Differ in Online Commentary. _Discourse & Society_.
 
