@@ -10,6 +10,8 @@ Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germa
 [Abstract can be found here.](assets/Workshop_argumentation_agreement_abstract.pdf)
 
 
+5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media, Amsterdam, Netherlands. Nov 21 -22, 2023
+
 
 
 
