@@ -6,6 +6,7 @@ _Upcoming_
 
 
 Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. 
+
 [Flyer can be found here.](assets/Workshop_Argumentation_Poster.pdf)  
 [Abstract can be found here.](assets/Workshop_argumentation_agreement_abstract.pdf)
 
