@@ -58,11 +58,12 @@ paginate_path: "/blog/page:num/"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "allison.g.nguyen@ucsc.edu"
+  email: "anguye9@ilstu.edu"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: aghnguyen
   twitter: scientific_al
+  Bluesky: scientifical.bksy.social
   #patreon: DeanAttali
  # youtube: c/daattali
 #  medium: yourname
