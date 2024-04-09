@@ -2,6 +2,14 @@ _**Talks**_
 
 **Upcoming**
 
+Comments on Andrea Beltrama, SLIME 3 (Studies in Language, Information, Meaning, and Expression), UCLA, June 20-21.
+
+
+
+
+
+
+**Past***
 Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. 
 [Flyer can be found here.](assets/Workshop_Argumentation_Poster.pdf)  
 [Abstract can be found here.](assets/Workshop_argumentation_agreement_abstract.pdf)
@@ -20,16 +28,18 @@ Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germa
 
 _**Papers Under Review**_
 
+**Nguyen, A.**, & Fox Tree, J.E. (Under review).  Is Kinda Less Sure than Partially?: Putting Negotiation Words on a Scale.
+**Nguyen, A.**, & Fox Tree, J.E. (Under review). Pragmatic uses of _I don't know_ , hedges, and boosters in talk and text.
 
-**Nguyen, A.**, & Fox Tree, J.E. (Under review). Pragmatic uses of _I don't know_ in talk and text.
 
-Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (Under review). Discourse markers in small talk and tasks.
 
 
 
 
 
 _**Recently Published Papers**_
+
+Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (2024). Discourse markers in small talk and tasks. _Discourse Studies_.
 
 **Nguyen, A.**, Roberts, T., Anand, P., Fox Tree, J.E. (2022) Look, Dude: How Hyperpartisan and Non-hyperpartisan Writing Differ in Online Commentary. _Discourse & Society_.
 
