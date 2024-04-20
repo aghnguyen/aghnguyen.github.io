@@ -31,6 +31,6 @@ Evan Jensen
 
 Oliver King
 
-[Lab photo](assets/labphoto.jpg)
+![Lab photo](assets/labphoto.jpg)
 
 
