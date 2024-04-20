@@ -4,7 +4,6 @@ I am currently accepting graduate students into my lab.
 **Thesis Advisor**
 
 Will Ervin, Cognitive and Experimental Psychology, Illinois State University
-
 _M.S. Thesis Title:_ Epistemics, gradable adjectives, and authority
 
 
