@@ -1,3 +1,5 @@
+[I was on a panel discussing a graphic novel for Women's History Month](https://www.youtube.com/watch?v=DB_R2THStmI&pp=ygUJcmVnZ2llY29u)
+
 [I was featured by UCSC as a 2023 graduate (promo video)](https://www.instagram.com/reel/CtASzrqLlqH/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==).
 
 [Here's my UCSC feature](https://www.instagram.com/reel/CtRvhO3J4jx/?igshid=Y2IzZGU1MTFhOQ==).
