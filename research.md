@@ -2,7 +2,7 @@ _**Talks**_
 
 **Upcoming**
 
-Comments on Andrea Beltrama, SLIME 3 (Studies in Language, Information, Meaning, and Expression), UCLA, June 20-21.
+Comments on Andrea Beltrama, SLIME 3 (Studies in Language, Information, Meaning, and Expression), UCLA, Sept 19-20.
 
 
 
