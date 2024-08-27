@@ -1,3 +1,11 @@
+**Fall 2024**
+[PSY 111 - Introduction To Psychology](https://coursefinder.illinoisstate.edu/psy/111/)
+[PSY 480 - Seminar in Psychology](https://coursefinder.illinoisstate.edu/psy/480a01/)
+
+**Spring 2024**
+[PSY 331a07 - Laboratory In Research Methods For Psych: Cognitive Processes](https://coursefinder.illinoisstate.edu/psy/331a07/#22423)
+[PSY 392 - Senior Seminar](https://coursefinder.illinoisstate.edu/psy/392/)
+
 **Fall 2023**
 <br>
 [PSY 111 - Introduction To Psychology](https://coursefinder.illinoisstate.edu/psy/111/)
