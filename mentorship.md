@@ -42,6 +42,8 @@ Charlisa Mao
 _Alumn_
 Sydney Miller
 Oliver King
+
+
 ![Lab photo](assets/labphoto2024.jpg)
 
 
