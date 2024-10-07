@@ -44,6 +44,6 @@ Sydney Miller<br>
 Oliver King<br>
 
 
-![Lab photo](assets/PXL_20241004_160851511.MP.jpg "From left to right")
+![Lab photo](assets/PXL_20241004_160851511.MP.jpg) *From left to right: Ari, Madi, Aidan, Will, Charlisa, Alexandria, Kelly*
 
 
