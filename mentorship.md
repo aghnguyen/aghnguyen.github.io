@@ -27,15 +27,19 @@ _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for
 **Undergraduate research assistants**
 
 _Current_
-
-Sydney Miller
-
+Ari O'Connell
+Madi Sapp
 Aidan Marcikic
-
 Evan Jensen
+Kelly Fletcher
+Alexandria Hernandez
+Charlisa Mao
 
+
+
+_Alumn_
+Sydney Miller
 Oliver King
-
 ![Lab photo](assets/labphoto.jpg)
 
 
