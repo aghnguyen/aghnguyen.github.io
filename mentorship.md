@@ -3,17 +3,19 @@ I am currently accepting graduate students into my lab.
 
 **Thesis Advisor**
 
-Will Ervin, Cognitive and Experimental Psychology, Illinois State University
+**Will Ervin**, Cognitive and Experimental Psychology, Illinois State University
 
 _M.S. Thesis Title:_ Epistemics, gradable adjectives, and authority
 
 
 **Thesis Committee Member**
 
-Arghya Kashyap, Cognitive and Experimental Psychology, Illinois State University
+**Arghya Kashyap**, Cognitive and Experimental Psychology, Illinois State University
 
 
 _M.S. Thesis Title:_ Exploratory probing and affordances
+
+
 
 
 [Travis Hicks](https://www.linkedin.com/in/travis-hicks-692519123/), Developmental Psychology, Illinois State University
@@ -40,6 +42,6 @@ Charlisa Mao
 _Alumn_
 Sydney Miller
 Oliver King
-![Lab photo](assets/labphoto.jpg)
+![Lab photo](assets/labphoto2024.jpg)
 
 
