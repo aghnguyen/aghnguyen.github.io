@@ -44,6 +44,6 @@ Sydney Miller<br>
 Oliver King<br>
 
 
-![Lab photo](assets/labphoto2024.jpg)
+![Lab photo](assets/PXL_20241004_160851511.MP.jpg)
 
 
