@@ -13,7 +13,7 @@ _M.S. Thesis Title:_ Epistemics, gradable adjectives, and authority
 **Arghya Kashyap**, Cognitive and Experimental Psychology, Illinois State University
 
 
-_M.S. Thesis Title:_ Exploratory probing and affordances
+_M.S. Thesis Title:_ Exploratory probing and affordances<br>
 
 
 
@@ -28,20 +28,20 @@ _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for
 
 **Undergraduate research assistants**
 
-_Current_
-Ari O'Connell
-Madi Sapp
-Aidan Marcikic
-Evan Jensen
-Kelly Fletcher
-Alexandria Hernandez
-Charlisa Mao
+_Current_<br>
+Ari O'Connell<br>
+Madi Sapp<br>
+Aidan Marcikic<br>
+Evan Jensen<br>
+Kelly Fletcher<br>
+Alexandria Hernandez<br>
+Charlisa Mao<br>
 
 
 
-_Alumn_
-Sydney Miller
-Oliver King
+_Alumn_<br>
+Sydney Miller<br>
+Oliver King<br>
 
 
 ![Lab photo](assets/labphoto2024.jpg)
