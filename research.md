@@ -1,16 +1,6 @@
 _**Talks**_
 
-**Upcoming**
-
 Comments on Andrea Beltrama, SLIME 3 (Studies in Language, Information, Meaning, and Expression), UCLA, Sept 19-20.
-
-
-
-
-
-
-**Past**
-
 
 Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. 
 [Flyer can be found here.](assets/Workshop_Argumentation_Poster.pdf)  
@@ -29,6 +19,12 @@ Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germa
 
 
 _**Papers Under Review**_
+
+**Nguyen, A.**, & Fox Tree, J.E. (Under review).  Hedges and boosters affect perceived gender and speaker valence.
+
+
+**Nguyen, A.**, & Fox Tree, J.E. (Under review). How Authority Affects Interpretations of Negotiation Words.
+
 
 **Nguyen, A.**, & Fox Tree, J.E. (Under review).  Is Kinda Less Sure than Partially?: Putting Negotiation Words on a Scale.
 
