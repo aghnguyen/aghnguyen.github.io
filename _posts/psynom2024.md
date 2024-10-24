@@ -5,4 +5,4 @@ You can [download my CV](assets/Nguyen_CV.pdf) here.
 
 
 
-[Return to my homepage here.](aghnguyen.github.io)
+[Return to my homepage here.](https://aghnguyen.github.io/)
