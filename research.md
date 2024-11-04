@@ -9,7 +9,7 @@ Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germa
 
 5th Symposium on Multidisciplinary International Symposium on Disinformation in Open Online Media, Amsterdam, Netherlands. Nov 21 -22, 2023
 
-
+Annual Meeting of the Psychonomic Society, Online. Nov 2021. [Link to talk.](https://drive.google.com/file/d/1XtzG1wKH36Q_HHBLLSPU6nO4L7C39zsR/view?usp=sharing)
 
 
 
