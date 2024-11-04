@@ -39,11 +39,11 @@ _**Papers Under Review**_
 
 _**Recently Published Papers**_
 
+**Nguyen, A.**, Guydish, A. J., Fox Tree, J.E. (2024). Backchannels in the Lab and in the Wild. _Interaction Studies_.
+
 Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (2024). Discourse markers in small talk and tasks. _Discourse Studies_.
 
 **Nguyen, A.**, Roberts, T., Anand, P., Fox Tree, J.E. (2022) Look, Dude: How Hyperpartisan and Non-hyperpartisan Writing Differ in Online Commentary. _Discourse & Society_.
-
-**Nguyen, A.**, Guydish, A. J., Fox Tree, J.E. (In press). Backchannels in the Lab and in the Wild. _Interaction Studies_.
 
 Fox Tree, J.E., Herring, S.C, **Nguyen, A.**, Whittaker, S., Martin, R., Takayama, L. (In press). Conversational Fluency and Attitudes Towards Robot Pilots in Telepresence Robot-Mediated Interactions. _Computer Supported Cooperative Work_.
 
