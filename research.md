@@ -50,4 +50,13 @@ Fox Tree, J.E., Herring, S.C, **Nguyen, A.**, Whittaker, S., Martin, R., Takayam
 Fox Tree, J.E., Whittaker, S., Herring, S.C., Chowdhury, Y., **Nguyen, A.**, Takayama, L. (2021) Psychological Distance in Mobile Telepresence. _International Journal of Human-Computer Studies_.
 
 
+
+
+
+
 **Posters**
+
+[Nguyen, 2024](aassets/lol poster.pdf)
+
+
+Ervin & Nguyen, 2024
