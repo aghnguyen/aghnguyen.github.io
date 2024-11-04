@@ -59,4 +59,4 @@ Fox Tree, J.E., Whittaker, S., Herring, S.C., Chowdhury, Y., **Nguyen, A.**, Tak
 [Nguyen, 2024](assets/Nguyen2024.pdf) 
 
 
-Ervin & Nguyen, 2024
+[Ervin & Nguyen, 2024](assets/ErvinNguyen2024)
