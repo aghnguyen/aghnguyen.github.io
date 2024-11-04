@@ -48,3 +48,6 @@ Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (2024). Discourse markers in s
 Fox Tree, J.E., Herring, S.C, **Nguyen, A.**, Whittaker, S., Martin, R., Takayama, L. (In press). Conversational Fluency and Attitudes Towards Robot Pilots in Telepresence Robot-Mediated Interactions. _Computer Supported Cooperative Work_.
 
 Fox Tree, J.E., Whittaker, S., Herring, S.C., Chowdhury, Y., **Nguyen, A.**, Takayama, L. (2021) Psychological Distance in Mobile Telepresence. _International Journal of Human-Computer Studies_.
+
+
+**Posters**
