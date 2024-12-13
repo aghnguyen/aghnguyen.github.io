@@ -9,13 +9,11 @@ _M.S. Thesis Title:_ Epistemics, gradable adjectives, and authority
 
 **Thesis Committee Member**
 
-**Arghya Kashyap**, Cognitive and Experimental Psychology, Illinois State University
+**Arghya Kashyap**, Cognitive and Experimental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ Exploratory probing and affordances
 
-**Dante Caruso**, Cognitive and Experimental Psychology, Illinois State University
+**Dante Caruso**, Cognitive and Experimental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ Comparing the Phenomenological Experience of False and Veridical Memories with Different Presentation Modalities and Delays
-
-
 
 [Travis Hicks](https://www.linkedin.com/in/travis-hicks-692519123/), Developmental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for age-related trust tendencies
