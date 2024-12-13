@@ -17,7 +17,7 @@ _M.S. Thesis Title:_ Comparing the Phenomenological Experience of False and Veri
 
 
 
-[Travis Hicks](https://www.linkedin.com/in/travis-hicks-692519123/), Developmental Psychology, Illinois State University
+[Travis Hicks](https://www.linkedin.com/in/travis-hicks-692519123/), Developmental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for age-related trust tendencies
 
 
