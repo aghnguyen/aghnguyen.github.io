@@ -12,11 +12,13 @@ _M.S. Thesis Title:_ Epistemics, gradable adjectives, and authority
 
 **Arghya Kashyap**, Cognitive and Experimental Psychology, Illinois State University
 
+_M.S. Thesis Title:_ Exploratory probing and affordances
 
-_M.S. Thesis Title:_ Exploratory probing and affordances<br>
+**Dante Caruso**, Cognitive and Experimental Psychology, Illinois State University
+_M.S. Thesis Title:_ Comparing the Phenomenological Experience of False and Veridical Memories with Different Presentation Modalities and Delays
 
 
-
+<br>
 
 [Travis Hicks](https://www.linkedin.com/in/travis-hicks-692519123/), Developmental Psychology, Illinois State University
 
