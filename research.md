@@ -39,6 +39,8 @@ _**Papers Under Review**_
 
 _**Recently Published Papers**_
 
+**Nguyen, A.**, & Fox Tree, J.E. (2025). Pragmatic uses of _I don't know_ , hedges, and boosters in talk and text. _Dialogue and Discourse_.
+
 **Nguyen, A.**, Guydish, A. J., Fox Tree, J.E. (2024). Backchannels in the Lab and in the Wild. _Interaction Studies_.
 
 Guydish, A. J., **Nguyen, A.**, & Fox Tree, J. E. (2024). Discourse markers in small talk and tasks. _Discourse Studies_.
