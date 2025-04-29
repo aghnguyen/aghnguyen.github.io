@@ -1,3 +1,5 @@
+[A feature in Knowable Magazine](https://knowablemagazine.org/content/article/mind/2025/interjections-important-for-conversation-flow)
+
 [I was on a panel discussing a graphic novel for Women's History Month](https://www.youtube.com/watch?v=DB_R2THStmI&pp=ygUJcmVnZ2llY29u)
 
 [I was featured by UCSC as a 2023 graduate (promo video)](https://www.instagram.com/reel/CtASzrqLlqH/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==).
