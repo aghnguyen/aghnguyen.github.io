@@ -27,7 +27,7 @@ navbar-links:
   Mentorship: "mentorship"
   CV: "cv"
   Media: "media" 
-  Other Things: "blog"
+ # Other Things: "blog"
  
 
   #Resources:
@@ -64,7 +64,7 @@ social-network-links:
   #facebook: deanattali
   github: aghnguyen
 #  twitter: scientific_al
-  bluesky: scientifical.bksy.social
+ # bluesky: scientifical.bksy.social
   #patreon: DeanAttali
  # youtube: c/daattali
 #  medium: yourname
