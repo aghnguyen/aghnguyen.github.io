@@ -36,9 +36,9 @@ Vanessa Jodlowski
 _Current_<br>
 Madi Sapp<br>
 Marlie Woolever<br>
-Carlos Alas Espana
-Brody Burress
-Anna Walker
+Carlos Alas Espana<br>
+Brody Burress<br>
+Anna Walker<br>
 
 
 
