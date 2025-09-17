@@ -1,3 +1,17 @@
+**Fall 2025**
+<br>
+[PSY 111 - Introduction To Psychology](https://coursefinder.illinoisstate.edu/psy/111/)
+<br>
+[PSY 331a07 - Laboratory In Research Methods For Psych: Cognitive Processes](https://coursefinder.illinoisstate.edu/psy/331a07/#22423)
+<br>
+[PSY 415a07 - Laboratory In Research Methods For Psych: Cognitive Processes](https://coursefinder.illinoisstate.edu/psy/415a07/)
+
+**Spring 2025**
+<br>
+[PSY 331a07 - Laboratory In Research Methods For Psych: Cognitive Processes](https://coursefinder.illinoisstate.edu/psy/331a07/#22423)
+<br>
+[PSY 392 - Senior Seminar](https://coursefinder.illinoisstate.edu/psy/392/)
+
 **Fall 2024**
 <br>
 [PSY 111 - Introduction To Psychology](https://coursefinder.illinoisstate.edu/psy/111/)
