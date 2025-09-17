@@ -26,23 +26,32 @@ _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for
 
 
 
+**Graduate research assistants**
+Emery Bosela
+Vanessa Jodlowski
 
 **Undergraduate research assistants**
 
 _Current_<br>
-Ari O'Connell<br>
 Madi Sapp<br>
+Marlie Woolever<br>
+Carlos Alas Espana
+Brody Burress
+Anna Walker
+
+
+
+
+_Alumn_<br>
+Dante Caruso<br>
 Aidan Marcikic<br>
 Evan Jensen<br>
 Kelly Fletcher<br>
 Alexandria Hernandez<br>
 Charlisa Mao<br>
-
-
-
-_Alumn_<br>
 Sydney Miller<br>
 Oliver King<br>
+Ari O'Connell<br>
 
 
 ![Lab photo](assets/PXL_20241004_160851511.MP.jpg) *From left to right: Ari, Madi, Aidan, Will, Charlisa, Alexandria, Kelly*
