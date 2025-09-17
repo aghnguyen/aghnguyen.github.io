@@ -42,7 +42,7 @@ Anna Walker
 
 
 
-_Alumn_<br>
+_Alum_<br>
 Dante Caruso<br>
 Aidan Marcikic<br>
 Evan Jensen<br>
