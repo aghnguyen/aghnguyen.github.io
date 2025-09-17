@@ -27,6 +27,7 @@ _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for
 
 
 **Graduate research assistants**
+
 Emery Bosela
 Vanessa Jodlowski
 
@@ -42,7 +43,7 @@ Anna Walker
 
 
 
-_Alum_<br>
+_Alums_<br>
 Dante Caruso<br>
 Aidan Marcikic<br>
 Evan Jensen<br>
