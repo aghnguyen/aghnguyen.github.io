@@ -45,6 +45,7 @@ Anna Walker
 
 _Alums_<br>
 Dante Caruso<br>
+Shemida Qualls<br>
 Aidan Marcikic<br>
 Evan Jensen<br>
 Kelly Fletcher<br>
