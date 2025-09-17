@@ -6,8 +6,14 @@ I am currently accepting graduate students into my lab.
 **Will Ervin**, Cognitive and Experimental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ Epistemics, gradable adjectives, and authority
 
+**Alison Guthrie**, Cognitive and Experimental Psychology, Illinois State University<br>
+_M.S. Thesis Title:_ Language Use, Accessibility and Accomodations 
+
 
 **Thesis Committee Member**
+
+**Tori Lomelino**, Industrial and Organizational Psychology, Illinois State University<br>
+_M.S. Thesis Title:_ The Mediating Roles of Work-Life Balance and Perceived Employability with Gender as a Moderator
 
 **Arghya Kashyap**, Cognitive and Experimental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ Exploratory probing and affordances
