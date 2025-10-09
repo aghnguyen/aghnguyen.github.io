@@ -12,6 +12,7 @@ _M.S. Thesis Title:_ Language Use, Accessibility and Accomodations
 
 **Thesis Committee Member**
 
+
 **Vanessa Jodlowski**, Cognitive and Experimental Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ 
 
