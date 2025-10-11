@@ -1,8 +1,10 @@
 _**Talks**_
 
-Science on Tap. March 2025. Normal, Illinois.
+Understanding negotiation in conversation, UC Santa Cruz, October 2025. Santa Cruz, CA.
 
-Comments on Andrea Beltrama, SLIME 3 (Studies in Language, Information, Meaning, and Expression), UCLA, Sept 19-20.
+Science on Tap. March 2025. Normal, IL.
+
+Comments on Andrea Beltrama, SLIME 3 (Studies in Language, Information, Meaning, and Expression), UCLA, Sept 19-20. Los Angeles, CA.
 
 Workshop on Argumentation and Manuevering Agreement in Discourse, Cologne, Germany. Dec 7 -8th, 2023. 
 [Flyer can be found here.](assets/Workshop_Argumentation_Poster.pdf)  
