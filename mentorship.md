@@ -14,7 +14,7 @@ _M.S. Thesis Title:_ Language Use, Accessibility and Accomodations
 
 
 **Vanessa Jodlowski**, Cognitive and Experimental Psychology, Illinois State University<br>
-_M.S. Thesis Title:_ 
+_M.S. Thesis Title:_ The Effects of Physiological Arousal and List Type on False Memory in the DRM
 
 **Tori Lomelino**, Industrial and Organizational Psychology, Illinois State University<br>
 _M.S. Thesis Title:_ The Mediating Roles of Work-Life Balance and Perceived Employability with Gender as a Moderator
