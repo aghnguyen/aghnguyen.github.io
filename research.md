@@ -63,7 +63,7 @@ Fox Tree, J.E., Whittaker, S., Herring, S.C., Chowdhury, Y., **Nguyen, A.**, Tak
 **Selected Posters**
 
 
-[Guthrie & Nguyen, 2025](assets/DRAFT 2.pdf)
+[Guthrie & Nguyen, 2025](assets/DRAFT2.pdf)
 
 [Nguyen, 2024](assets/Nguyen2024.pdf) 
 
