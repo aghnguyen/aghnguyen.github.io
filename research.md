@@ -23,11 +23,14 @@ Annual Meeting of the Psychonomic Society, Online. Nov 2021. [Link to talk.](htt
 
 
 
+
 _**Papers Under Review**_
 
 **Nguyen, A.** (Under review).  LOL and LMAO as discourse markers.
 
 **Nguyen, A.**, & Fox Tree, J.E. (Under review).  Is Kinda Less Sure than Partially?: Putting Negotiation Words on a Scale.
+
+
 
 
 
