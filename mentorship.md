@@ -49,9 +49,14 @@ Kobe Aguzar<br>
 
 
 
-_Alums_<br>
-Madi Sapp<br>
+_Grduate Student Alums_<br>
+Arghya Kashyap<br>
+Will Ervin<br>
 Dante Caruso<br>
+
+_Undergraduate Student Alums_<br>
+Analiz DeJesus (IWU)<br>
+Madi Sapp<br>
 Shemida Qualls<br>
 Aidan Marcikic<br>
 Evan Jensen<br>
