@@ -31,6 +31,7 @@ _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for
 
 
 **Graduate research assistants**
+
 Alison Guthrie<br>
 Vanessa Jodlowski<br>
 
