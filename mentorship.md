@@ -31,23 +31,26 @@ _M.S. Thesis Title:_ Children's understanding of the internet as a moderator for
 
 
 **Graduate research assistants**
-
-Emery Bosela<br>
+Alison Guthrie
 Vanessa Jodlowski
 
 **Undergraduate research assistants**
 
 _Current_<br>
-Madi Sapp<br>
+Angelina Owens<br>
 Marlie Woolever<br>
 Carlos Alas Espana<br>
 Brody Burress<br>
 Anna Walker<br>
-
+Ashley Nevel<br>
+Victoria Walsh<br>
+Kino Gomez<br>
+Kobe Aguzar<br>
 
 
 
 _Alums_<br>
+Madi Sapp<br>
 Dante Caruso<br>
 Shemida Qualls<br>
 Aidan Marcikic<br>
