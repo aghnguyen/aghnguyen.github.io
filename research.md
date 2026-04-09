@@ -27,9 +27,6 @@ _**Papers Under Review**_
 
 **Nguyen, A.** (Under review).  LOL and LMAO as discourse markers.
 
-**Nguyen, A.**, & Fox Tree, J.E. (Under review).  Hedges and boosters affect perceived gender and speaker valence.
-
-
 **Nguyen, A.**, & Fox Tree, J.E. (Under review).  Is Kinda Less Sure than Partially?: Putting Negotiation Words on a Scale.
 
 
@@ -40,8 +37,9 @@ _**Papers Under Review**_
 
 
 _**Recently Published Papers**_
+**Nguyen, A.**, & Fox Tree, J.E. (2026).  Hedges and boosters affect perceived gender and speaker valence. _Language@Internet_
 
-**Nguyen, A.**, & Fox Tree, J.E. (To Appear). How Authority Affects Social Evaluations of Negotiation Words.
+**Nguyen, A.**, & Fox Tree, J.E. (2025). How Authority Affects Social Evaluations of Negotiation Words. _Cognitive Research: Principles and Implications_
 
 **Nguyen, A.**, & Fox Tree, J.E. (2025). Pragmatic uses of _I don't know_ , hedges, and boosters in talk and text. _Dialogue and Discourse_.
 
