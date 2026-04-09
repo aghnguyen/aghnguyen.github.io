@@ -37,9 +37,8 @@ _**Papers Under Review**_
 
 
 
-
-
 _**Recently Published Papers**_
+
 **Nguyen, A.**, & Fox Tree, J.E. (2026).  Hedges and boosters affect perceived gender and speaker valence. _Language@Internet_
 
 **Nguyen, A.**, & Fox Tree, J.E. (2025). How Authority Affects Social Evaluations of Negotiation Words. _Cognitive Research: Principles and Implications_
